@@ -51,3 +51,24 @@ This project implements a **GPU-accelerated parallel search** that locates a tar
 ### 1. Build
 ```bash
 make clean build
+```
+### 2. Run Examples
+```bash
+./search.exe -p TFpFX
+```
+### 3. View Result
+```bash
+cat output-IzONJ.txt
+```
+### Expected output:
+``` bash
+Data: 717899641 236192674 8063503 2024977982 453135755 604963279 93301624 2004344247 636111415 1270883455 
+Searching for value: 93301624 
+Found Index: 6
+
+
+
+
+
+
+
