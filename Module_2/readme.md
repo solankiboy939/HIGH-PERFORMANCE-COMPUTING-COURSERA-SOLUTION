@@ -1,4 +1,4 @@
-# Parallel Search with CUDA  
+# Programming Assignment: Data Search Programming Assignment  
 **Assignment for _Introduction to Parallel Programming with CUDA_**  
 *GPU Programming Specialization — Johns Hopkins University | Coursera*
 
