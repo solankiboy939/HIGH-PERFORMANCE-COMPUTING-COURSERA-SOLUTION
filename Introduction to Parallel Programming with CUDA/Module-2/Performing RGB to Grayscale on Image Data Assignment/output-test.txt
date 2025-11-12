@@ -1,0 +1,2 @@
+inputImage: sloth.png outputImage: sloth-gray.png currentPartId: test threadsPerBlock: 256
+Mean difference percentage: 3.52941

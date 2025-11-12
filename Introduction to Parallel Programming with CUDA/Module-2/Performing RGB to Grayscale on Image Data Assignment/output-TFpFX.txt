@@ -1,0 +1,2 @@
+inputImage: sloth.png outputImage: grey-sloth.png currentPartId: TFpFX threadsPerBlock: 256
+Mean difference percentage: 3.52941
