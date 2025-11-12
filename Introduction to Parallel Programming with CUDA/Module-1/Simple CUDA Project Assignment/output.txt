@@ -1,0 +1,14 @@
+[Vector multiplication of 64 elements]
+CUDA kernel launch with 1 blocks of 256 threads
+C[0] = 0.000000
+C[1] = 2.000000
+C[2] = 8.000000
+C[3] = 18.000000
+C[4] = 32.000000
+C[5] = 50.000000
+C[6] = 72.000000
+C[7] = 98.000000
+C[8] = 128.000000
+C[9] = 162.000000
+Test PASSED
+Done
